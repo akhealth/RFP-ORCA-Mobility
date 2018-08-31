@@ -6,7 +6,7 @@ Note - these documents are currently in draft form and are being updated to refl
 
 ## Contributing
 
-To add changes to this draft RFP, create a new branch with your changes and submit a [pull request](https://github.com/18F/RFP-ORCA-Mobility/pulls) to merge into `master`. Please add the appropriate reviewer(s) to your PR and get a :thumbsup: before merging.
+To add changes to this draft RFP, create a new branch with your changes and submit a [pull request](https://github.com/alaskaDHSS/RFP-ORCA-Mobility/pulls) to merge into `master`. Please add the appropriate reviewer(s) to your PR and get a :thumbsup: before merging.
 
 
 ## Public domain
